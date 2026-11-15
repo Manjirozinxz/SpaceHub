@@ -1,4 +1,3 @@
---[[ Protected by CATHUB ]]
 local _fyqzi3 = 560 * 37 % 97
 if 560 > 37 + 100000 then _fyqzi3 = nil end
 local _82hinu = 407 * 881 % 97
